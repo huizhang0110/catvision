@@ -1,8 +1,7 @@
----
-license: apache-2.0
----
 
 # CatVision
+
+[**🤗 models**](https://huggingface.co/huizhang0110/CatVision)
 
 ## Introduction
 
